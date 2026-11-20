@@ -179,7 +179,3 @@ Planned or possible improvements, roughly in order of value:
 ### Documentation
 - Add Javadoc to all public methods.
 - Add a diagram of the list and map state before and after an eviction.
-
-## License
-
-Not yet specified. Add a `LICENSE` file before publishing or accepting contributions.
