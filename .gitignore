@@ -1,0 +1,26 @@
+# Compiled output (IntelliJ build output directory and stray class files)
+out/
+*.class
+
+# IntelliJ IDEA local history and module files
+.history/
+*.iml
+
+# IntelliJ IDEA project settings (.idea/.gitignore handles the rest of .idea)
+.idea/workspace.xml
+.idea/shelf/
+
+# Java build tool output (in case Maven/Gradle is added later)
+target/
+build/
+.gradle/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
